@@ -1,4 +1,5 @@
-### Hi there im marziecode👋
+### Hi i'm marziecode👋
+and this is my skills 
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,ts)](https://skillicons.dev)
