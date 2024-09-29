@@ -1,4 +1,4 @@
-### Hi i'm marziecode👋
+### Hi I'm marziecode👋
 and this is my skills 
 
 
